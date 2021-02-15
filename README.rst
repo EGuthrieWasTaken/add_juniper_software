@@ -4,7 +4,7 @@
 .. |pypi status| image:: https://img.shields.io/pypi/status/add_juniper_software
 
 .. |code size| image:: https://img.shields.io/github/languages/code-size/EGuthrieWasTaken/add_juniper_software
-.. |downloads| image:: https://img.shields.io/pypi/dw/add_juniper_software
+.. |downloads| image:: https://img.shields.io/pypi/dw/add-juniper-software
 .. |python versions| image:: https://img.shields.io/pypi/pyversions/add_juniper_software
 .. |pypi format| image:: https://img.shields.io/pypi/format/add_juniper_software
 
