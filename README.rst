@@ -1,4 +1,3 @@
-.. |travis status| image:: https://img.shields.io/travis/com/EGuthrieWasTaken/add_juniper_software/main
 .. |pypi version| image:: https://img.shields.io/pypi/v/add_juniper_software
 .. |license| image:: https://img.shields.io/pypi/l/add_juniper_software
 .. |pypi status| image:: https://img.shields.io/pypi/status/add_juniper_software
@@ -10,9 +9,9 @@
 
 .. |readthedocs status| image:: https://readthedocs.org/projects/ezpyz/badge/?version=latest
 
-===========================================================================
-add_juniper_software |travis status| |pypi version| |license| |pypi status|
-===========================================================================
+===========================================================
+add_juniper_software |pypi version| |license| |pypi status|
+===========================================================
 Welcome to add_juniper_software! 
 
 **This project is under development, and will likely not work as intended. You have been warned.**
@@ -32,7 +31,7 @@ If you're using brew (most likely for MacOS), you can install pip (along with th
 
     brew install python3
 
-**Note: The creator of this software does not recommend the installation of python or pip using brew, and instead recommends that Python 3.7+ be installed using the installation candidates found on** `python.org <https://www.python.org/downloads/)>`_, **which include pip by default.**
+**Note: The creator of this software does not recommend the installation of python or pip using brew, and instead recommends that Python 3.5+ be installed using the installation candidates found on** `python.org <https://www.python.org/downloads/)>`_, **which include pip by default.**
 
 Using Pip to install from PyPi
 ==============================
