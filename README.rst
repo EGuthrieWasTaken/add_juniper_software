@@ -15,8 +15,6 @@ add_juniper_software |travis status| |pypi version| |license| |pypi status|
 ===========================================================================
 Welcome to add_juniper_software! 
 
-**This project is under development, and will likely not work as intended. You have been warned.**
-
 --------------------------------------------------------------------
 Installation |code size| |downloads| |python versions| |pypi format|
 --------------------------------------------------------------------
